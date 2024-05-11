@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_height">Height (decimeter): </string>
+    <string name="desc_name">Name: </string>
+    <string name="desc_weight">Weight (hectogram): </string>
+    <string name="desc_is_default">Is default: </string>
+    <string name="desc_abilities">Abilities: </string>
+</resources>
